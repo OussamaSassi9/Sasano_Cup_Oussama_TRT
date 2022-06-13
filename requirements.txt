@@ -1,0 +1,16 @@
+glob2
+opencv-python
+os-sys
+matplotlib
+numpy
+sklearn
+tensorflow
+pickle-mixin
+tqdm
+pytest-shutil
+jsonlib
+
+
+
+
+
